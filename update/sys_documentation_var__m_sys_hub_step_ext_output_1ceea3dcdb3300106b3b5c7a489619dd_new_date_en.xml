@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_date" label="variable" language="en" table="var__m_sys_hub_step_ext_output_1ceea3dcdb3300106b3b5c7a489619dd">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_date</element>
+            <help/>
+            <hint/>
+            <label>variable</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_1ceea3dcdb3300106b3b5c7a489619dd</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-23 08:56:05</sys_created_on>
+            <sys_id>50eeafdcdb3300106b3b5c7a48961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>variable</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_471562_needit_sp">3e976350db3300106b3b5c7a4896199e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">3e976350db3300106b3b5c7a4896199e</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_1ceea3dcdb3300106b3b5c7a489619dd_new_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-23 08:56:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
